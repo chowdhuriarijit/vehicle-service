@@ -21,6 +21,9 @@ Example Response:
   "fuelType": "Petrol",
   "enginePower": 132
 }
+```
+
+---
 
 ## Setup, Build, Run, and Test
 
