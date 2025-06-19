@@ -25,17 +25,10 @@ Example Response:
 
 ---
 
-## Setup, Build, Run, and Test
-
-### 1. Prerequisites
-- Java 17 or higher
-- Maven 3.8+
-- Docker (optional, for containerization)
-
 ### 2. Clone the Repository
 ```bash
 git clone https://github.com/chowdhuriarijit/vehicle-service.git
-cd insurance-service
+cd vehicle-service
 ```
 
 ### 3. Build the Project

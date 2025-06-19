@@ -1,7 +1,9 @@
-package com.example.vehicleservice.service;
+package com.example.vehicleservice.service.unit;
 
 import com.example.vehicleservice.exception.VehicleNotFoundException;
 import com.example.vehicleservice.model.VehicleInfo;
+import com.example.vehicleservice.service.VehicleService;
+
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
